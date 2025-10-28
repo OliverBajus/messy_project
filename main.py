@@ -1,7 +1,7 @@
 import code1
 import helpers2
 
-print("starting app")
+print("Starting app")
 
 x = input("Enter your name: ")
 print("Hello " + x)
